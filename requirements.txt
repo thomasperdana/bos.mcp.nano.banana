@@ -25,6 +25,7 @@ langchain-google-genai==2.0.10
 langsmith==0.4.50
 orjson==3.11.4
 packaging==24.2
+Pillow==10.4.0
 proto-plus==1.26.1
 protobuf==4.25.8
 pyasn1==0.6.1
@@ -44,3 +45,4 @@ typing_extensions==4.15.0
 uritemplate==4.2.0
 urllib3==2.5.0
 zstandard==0.25.0
+fastmcp
