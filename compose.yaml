@@ -1,0 +1,7 @@
+services:
+  fancy-logo-generator:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app

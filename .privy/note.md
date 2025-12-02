@@ -42,3 +42,7 @@ pip install --upgrade langchain-google-genai google-ai-generativelanguage
 pip install --upgrade langchain-google-genai google-ai-generativelanguage google-generativeai
 
 pip install -r requirements.txt
+
+docker run -d -p 8000:8000 bos.mcp.nano.banana
+
+https://github.com/docker/compose-for-agents
